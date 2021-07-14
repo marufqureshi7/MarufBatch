@@ -6,7 +6,7 @@ public class MClass1
 	
 	public void maruf()
 	{
-		System.out.println("welcome");
+		System.out.println("welcome here");
 	}
 	public static void main(String[] args) 
 	{
