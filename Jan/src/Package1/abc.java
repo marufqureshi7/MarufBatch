@@ -31,7 +31,7 @@ public class abc
       
       public static void main(String[] args) 
       {
-    	  System.out.println("Hello");
+    	System.out.println("Hello");
 		abc ob=new abc();
 		int sumr1=ob.sum(10, 2);
 		int sumr2=ob.sum(sumr1, 2);
